@@ -1,0 +1,17 @@
+/.vscode
+/Aggregation.sql
+/ALTER TABLE job_applied.sql
+/ALTER TABLE reaname job_applied.sql
+/ALTER TABLE type job_applied.sql
+/Case expression if statement.sql
+/CREATE TABLE job_applied (.sql
+/csv_files
+/DROP TABLE job_applied.sql
+/INSERT INTO job_applied.sql
+/iterate_example.sql
+/join.sql
+/operation.sql
+/project_sql
+/Subqueries and CTES.sql
+/union.sql
+/UPDATE job_applied.sql
