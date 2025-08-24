@@ -11,7 +11,7 @@
 /iterate_example.sql
 /join.sql
 /operation.sql
-/project_sql
+#/project_sql
 /Subqueries and CTES.sql
 /union.sql
 /UPDATE job_applied.sql
